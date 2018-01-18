@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         String str = "一头雾水的提交" ;
+
+        String str1 = "还是懵逼";
     }
 }
